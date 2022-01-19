@@ -1,0 +1,2302 @@
+[
+ {
+   "currencyCode": "1ST",
+   "currencyName": "FirstBlood"
+ },
+ {
+   "currencyCode": "2GIVE",
+   "currencyName": "GiveCoin"
+ },
+ {
+   "currencyCode": "808",
+   "currencyName": "808Coin"
+ },
+ {
+   "currencyCode": "AAVE",
+   "currencyName": "Aave"
+ },
+ {
+   "currencyCode": "ABT",
+   "currencyName": "ArcBlock"
+ },
+ {
+   "currencyCode": "ABY",
+   "currencyName": "ArtByte"
+ },
+ {
+   "currencyCode": "AC",
+   "currencyName": "AsiaCoin"
+ },
+ {
+   "currencyCode": "ACT",
+   "currencyName": "Achain"
+ },
+ {
+   "currencyCode": "ADA",
+   "currencyName": "Cardano"
+ },
+ {
+   "currencyCode": "ADT",
+   "currencyName": "adToken"
+ },
+ {
+   "currencyCode": "ADX",
+   "currencyName": "AdEx"
+ },
+ {
+   "currencyCode": "AE",
+   "currencyName": "Aeternity"
+ },
+ {
+   "currencyCode": "AEON",
+   "currencyName": "Aeon"
+ },
+ {
+   "currencyCode": "AGI",
+   "currencyName": "SingularityNET"
+ },
+ {
+   "currencyCode": "AGRS",
+   "currencyName": "IDNI-Agoras"
+ },
+ {
+   "currencyCode": "AI",
+   "currencyName": "POLY-AI"
+ },
+ {
+   "currencyCode": "AID",
+   "currencyName": "AidCoin"
+ },
+ {
+   "currencyCode": "AION",
+   "currencyName": "Aion"
+ },
+ {
+   "currencyCode": "AIR",
+   "currencyName": "AirToken"
+ },
+ {
+   "currencyCode": "AKY",
+   "currencyName": "Akuya-Coin"
+ },
+ {
+   "currencyCode": "ALGO",
+   "currencyName": "Algorand"
+ },
+ {
+   "currencyCode": "ALIS",
+   "currencyName": "ALIS"
+ },
+ {
+   "currencyCode": "AMBER",
+   "currencyName": "AmberCoin"
+ },
+ {
+   "currencyCode": "AMP",
+   "currencyName": "Synereo"
+ },
+ {
+   "currencyCode": "AMPL",
+   "currencyName": "Ampleforth"
+ },
+ {
+   "currencyCode": "ANC",
+   "currencyName": "Anoncoin"
+ },
+ {
+   "currencyCode": "ANT",
+   "currencyName": "Aragon"
+ },
+ {
+   "currencyCode": "APPC",
+   "currencyName": "AppCoins"
+ },
+ {
+   "currencyCode": "APX",
+   "currencyName": "APX-Ventures"
+ },
+ {
+   "currencyCode": "ARDR",
+   "currencyName": "Ardor"
+ },
+ {
+   "currencyCode": "ARK",
+   "currencyName": "Ark"
+ },
+ {
+   "currencyCode": "ARN",
+   "currencyName": "Aeron"
+ },
+ {
+   "currencyCode": "AST",
+   "currencyName": "AirSwap"
+ },
+ {
+   "currencyCode": "ATB",
+   "currencyName": "ATBCoin"
+ },
+ {
+   "currencyCode": "ATM",
+   "currencyName": "ATMChain"
+ },
+ {
+   "currencyCode": "ATOM",
+   "currencyName": "Cosmos"
+ },
+ {
+   "currencyCode": "ATS",
+   "currencyName": "Authorship"
+ },
+ {
+   "currencyCode": "AUR",
+   "currencyName": "Auroracoin"
+ },
+ {
+   "currencyCode": "AVAX",
+   "currencyName": "Avalanche"
+ },
+ {
+   "currencyCode": "AVT",
+   "currencyName": "Aventus"
+ },
+ {
+   "currencyCode": "B3",
+   "currencyName": "B3Coin"
+ },
+ {
+   "currencyCode": "BAND",
+   "currencyName": "Band Protocol"
+ },
+ {
+   "currencyCode": "BAT",
+   "currencyName": "Basic-Attention-Token"
+ },
+ {
+   "currencyCode": "BAY",
+   "currencyName": "BitBay"
+ },
+ {
+   "currencyCode": "BBR",
+   "currencyName": "Boolberry"
+ },
+ {
+   "currencyCode": "BCAP",
+   "currencyName": "BCAP"
+ },
+ {
+   "currencyCode": "BCC",
+   "currencyName": "BitConnect"
+ },
+ {
+   "currencyCode": "BCD",
+   "currencyName": "Bitcoin-Diamond"
+ },
+ {
+   "currencyCode": "BCH",
+   "currencyName": "Bitcoin-Cash"
+ },
+ {
+   "currencyCode": "BCN",
+   "currencyName": "Bytecoin"
+ },
+ {
+   "currencyCode": "BCPT",
+   "currencyName": "BlockMason-Credit-Protocol-Token"
+ },
+ {
+   "currencyCode": "BCX",
+   "currencyName": "BitcoinX"
+ },
+ {
+   "currencyCode": "BCY",
+   "currencyName": "BitCrystals"
+ },
+ {
+   "currencyCode": "BDL",
+   "currencyName": "Bitdeal"
+ },
+ {
+   "currencyCode": "BEE",
+   "currencyName": "Bee-Token"
+ },
+ {
+   "currencyCode": "BELA",
+   "currencyName": "BelaCoin"
+ },
+ {
+   "currencyCode": "BET",
+   "currencyName": "DAO-Casino"
+ },
+ {
+   "currencyCode": "BFT",
+   "currencyName": "BF-Token"
+ },
+ {
+   "currencyCode": "BIS",
+   "currencyName": "Bismuth"
+ },
+ {
+   "currencyCode": "BITB",
+   "currencyName": "BitBean"
+ },
+ {
+   "currencyCode": "BITBTC",
+   "currencyName": "BitBTC"
+ },
+ {
+   "currencyCode": "BITCNY",
+   "currencyName": "BitCNY"
+ },
+ {
+   "currencyCode": "BITEUR",
+   "currencyName": "BitEUR"
+ },
+ {
+   "currencyCode": "BITGOLD",
+   "currencyName": "BitGOLD"
+ },
+ {
+   "currencyCode": "BITSILVER",
+   "currencyName": "BitSILVER"
+ },
+ {
+   "currencyCode": "BITUSD",
+   "currencyName": "BitUSD"
+ },
+ {
+   "currencyCode": "BIX",
+   "currencyName": "Bibox-Token"
+ },
+ {
+   "currencyCode": "BLITZ",
+   "currencyName": "Blitzcash"
+ },
+ {
+   "currencyCode": "BLK",
+   "currencyName": "Blackcoin"
+ },
+ {
+   "currencyCode": "BLN",
+   "currencyName": "Bolenum"
+ },
+ {
+   "currencyCode": "BLOCK",
+   "currencyName": "Blocknet"
+ },
+ {
+   "currencyCode": "BLZ",
+   "currencyName": "Bluzelle"
+ },
+ {
+   "currencyCode": "BMC",
+   "currencyName": "Blackmoon-Crypto"
+ },
+ {
+   "currencyCode": "BNB",
+   "currencyName": "Binance-Coin"
+ },
+ {
+   "currencyCode": "BNT",
+   "currencyName": "Bancor-Network-Token"
+ },
+ {
+   "currencyCode": "BNTY",
+   "currencyName": "Bounty0x"
+ },
+ {
+   "currencyCode": "BOST",
+   "currencyName": "BoostCoin"
+ },
+ {
+   "currencyCode": "BOT",
+   "currencyName": "Bodhi"
+ },
+ {
+   "currencyCode": "BQ",
+   "currencyName": "bitqy"
+ },
+ {
+   "currencyCode": "BRD",
+   "currencyName": "Bread"
+ },
+ {
+   "currencyCode": "BRK",
+   "currencyName": "Breakout-Coin"
+ },
+ {
+   "currencyCode": "BRX",
+   "currencyName": "Breakout-Stake"
+ },
+ {
+   "currencyCode": "BSV",
+   "currencyName": "Bitcoin SV"
+ },
+ {
+   "currencyCode": "BTA",
+   "currencyName": "Bata"
+ },
+ {
+   "currencyCode": "BTC",
+   "currencyName": "Bitcoin"
+ },
+ {
+   "currencyCode": "BTCB",
+   "currencyName": "Bitcoin BEP2"
+ },
+ {
+   "currencyCode": "BTCD",
+   "currencyName": "BitcoinDark"
+ },
+ {
+   "currencyCode": "BTCP",
+   "currencyName": "Bitcoin-Private"
+ },
+ {
+   "currencyCode": "BTG",
+   "currencyName": "Bitcoin-Gold"
+ },
+ {
+   "currencyCode": "BTM",
+   "currencyName": "Bitmark"
+ },
+ {
+   "currencyCode": "BTS",
+   "currencyName": "BitShares"
+ },
+ {
+   "currencyCode": "BTSR",
+   "currencyName": "BTSR"
+ },
+ {
+   "currencyCode": "BTT",
+   "currencyName": "BitTorrent"
+ },
+ {
+   "currencyCode": "BTX",
+   "currencyName": "Bitcore"
+ },
+ {
+   "currencyCode": "BURST",
+   "currencyName": "Burstcoin"
+ },
+ {
+   "currencyCode": "BUSD",
+   "currencyName": "Binance-USD"
+ },
+ {
+   "currencyCode": "BUZZ",
+   "currencyName": "BuzzCoin"
+ },
+ {
+   "currencyCode": "BYC",
+   "currencyName": "Bytecent"
+ },
+ {
+   "currencyCode": "BYTOM",
+   "currencyName": "Bytom"
+ },
+ {
+   "currencyCode": "C20",
+   "currencyName": "Crypto20"
+ },
+ {
+   "currencyCode": "CAKE",
+   "currencyName": "PancakeSwap"
+ },
+ {
+   "currencyCode": "CANN",
+   "currencyName": "CannabisCoin"
+ },
+ {
+   "currencyCode": "CAT",
+   "currencyName": "BlockCAT"
+ },
+ {
+   "currencyCode": "CCRB",
+   "currencyName": "CryptoCarbon"
+ },
+ {
+   "currencyCode": "CDT",
+   "currencyName": "Blox"
+ },
+ {
+   "currencyCode": "CFI",
+   "currencyName": "Cofound-it"
+ },
+ {
+   "currencyCode": "CHAT",
+   "currencyName": "ChatCoin"
+ },
+ {
+   "currencyCode": "CHIPS",
+   "currencyName": "Chips"
+ },
+ {
+   "currencyCode": "CLAM",
+   "currencyName": "Clams"
+ },
+ {
+   "currencyCode": "CLOAK",
+   "currencyName": "CloakCoin"
+ },
+ {
+   "currencyCode": "CMP",
+   "currencyName": "Compcoin"
+ },
+ {
+   "currencyCode": "CMT",
+   "currencyName": "CyberMiles"
+ },
+ {
+   "currencyCode": "CND",
+   "currencyName": "Cindicator"
+ },
+ {
+   "currencyCode": "CNX",
+   "currencyName": "Cryptonex"
+ },
+ {
+   "currencyCode": "COFI",
+   "currencyName": "CoinFi"
+ },
+ {
+   "currencyCode": "COMP",
+   "currencyName": "Compound"
+ },
+ {
+   "currencyCode": "COSS",
+   "currencyName": "COSS"
+ },
+ {
+   "currencyCode": "COVAL",
+   "currencyName": "Circuits-Of-Value"
+ },
+ {
+   "currencyCode": "CRBIT",
+   "currencyName": "CreditBIT"
+ },
+ {
+   "currencyCode": "CREA",
+   "currencyName": "CreativeCoin"
+ },
+ {
+   "currencyCode": "CREDO",
+   "currencyName": "Credo"
+ },
+ {
+   "currencyCode": "CRO",
+   "currencyName": "Crypto.com Coin"
+ },
+ {
+   "currencyCode": "CRW",
+   "currencyName": "Crown"
+ },
+ {
+   "currencyCode": "CSNO",
+   "currencyName": "BitDice"
+ },
+ {
+   "currencyCode": "CTR",
+   "currencyName": "Centra"
+ },
+ {
+   "currencyCode": "CTXC",
+   "currencyName": "Cortex"
+ },
+ {
+   "currencyCode": "CURE",
+   "currencyName": "CureCoin"
+ },
+ {
+   "currencyCode": "CVC",
+   "currencyName": "Civic"
+ },
+ {
+   "currencyCode": "DAI",
+   "currencyName": "Dai"
+ },
+ {
+   "currencyCode": "DAR",
+   "currencyName": "Darcrus"
+ },
+ {
+   "currencyCode": "DASH",
+   "currencyName": "Dash"
+ },
+ {
+   "currencyCode": "DATA",
+   "currencyName": "DATAcoin"
+ },
+ {
+   "currencyCode": "DAY",
+   "currencyName": "Chronologic"
+ },
+ {
+   "currencyCode": "DBC",
+   "currencyName": "DeepBrain-Chain"
+ },
+ {
+   "currencyCode": "DBIX",
+   "currencyName": "DubaiCoin"
+ },
+ {
+   "currencyCode": "DCN",
+   "currencyName": "Dentacoin"
+ },
+ {
+   "currencyCode": "DCR",
+   "currencyName": "Decred"
+ },
+ {
+   "currencyCode": "DCT",
+   "currencyName": "DECENT"
+ },
+ {
+   "currencyCode": "DDF",
+   "currencyName": "Digital-Developers-Fund"
+ },
+ {
+   "currencyCode": "DENT",
+   "currencyName": "Dent"
+ },
+ {
+   "currencyCode": "DFS",
+   "currencyName": "DFSCoin"
+ },
+ {
+   "currencyCode": "DGB",
+   "currencyName": "DigiByte"
+ },
+ {
+   "currencyCode": "DGC",
+   "currencyName": "Digitalcoin"
+ },
+ {
+   "currencyCode": "DGD",
+   "currencyName": "DigixDAO"
+ },
+ {
+   "currencyCode": "DICE",
+   "currencyName": "Etheroll"
+ },
+ {
+   "currencyCode": "DLT",
+   "currencyName": "Agrello-Delta"
+ },
+ {
+   "currencyCode": "DMD",
+   "currencyName": "Diamond"
+ },
+ {
+   "currencyCode": "DMT",
+   "currencyName": "DMarket"
+ },
+ {
+   "currencyCode": "DNT",
+   "currencyName": "district0x"
+ },
+ {
+   "currencyCode": "DOGE",
+   "currencyName": "DogeCoin"
+ },
+ {
+   "currencyCode": "DOPE",
+   "currencyName": "DopeCoin"
+ },
+ {
+   "currencyCode": "DOT",
+   "currencyName": "Polkadot"
+ },
+ {
+   "currencyCode": "DRGN",
+   "currencyName": "Dragonchain"
+ },
+ {
+   "currencyCode": "DTA",
+   "currencyName": "Data"
+ },
+ {
+   "currencyCode": "DTB",
+   "currencyName": "Databits"
+ },
+ {
+   "currencyCode": "DYN",
+   "currencyName": "Dynamic"
+ },
+ {
+   "currencyCode": "EAC",
+   "currencyName": "EarthCoin"
+ },
+ {
+   "currencyCode": "EBST",
+   "currencyName": "eBoost"
+ },
+ {
+   "currencyCode": "EBTC",
+   "currencyName": "eBTC"
+ },
+ {
+   "currencyCode": "ECC",
+   "currencyName": "ECC"
+ },
+ {
+   "currencyCode": "ECN",
+   "currencyName": "E-coin"
+ },
+ {
+   "currencyCode": "EDG",
+   "currencyName": "Edgeless"
+ },
+ {
+   "currencyCode": "EDO",
+   "currencyName": "Eidoo"
+ },
+ {
+   "currencyCode": "EFL",
+   "currencyName": "Electronic-Gulden"
+ },
+ {
+   "currencyCode": "EGC",
+   "currencyName": "EverGreenCoin"
+ },
+ {
+   "currencyCode": "EGLD",
+   "currencyName": "Elrond"
+ },
+ {
+   "currencyCode": "EKT",
+   "currencyName": "EDUCare"
+ },
+ {
+   "currencyCode": "ELA",
+   "currencyName": "Elastos"
+ },
+ {
+   "currencyCode": "ELEC",
+   "currencyName": "Electrify.Asia"
+ },
+ {
+   "currencyCode": "ELF",
+   "currencyName": "aelf"
+ },
+ {
+   "currencyCode": "ELIX",
+   "currencyName": "Elixir"
+ },
+ {
+   "currencyCode": "EMB",
+   "currencyName": "Embercoin"
+ },
+ {
+   "currencyCode": "EMC",
+   "currencyName": "Emercoin"
+ },
+ {
+   "currencyCode": "EMC2",
+   "currencyName": "Einsteinium"
+ },
+ {
+   "currencyCode": "ENG",
+   "currencyName": "Enigma"
+ },
+ {
+   "currencyCode": "ENJ",
+   "currencyName": "Enjin-Coin"
+ },
+ {
+   "currencyCode": "ENRG",
+   "currencyName": "EnergyCoin"
+ },
+ {
+   "currencyCode": "EOS",
+   "currencyName": "EOS"
+ },
+ {
+   "currencyCode": "EOT",
+   "currencyName": "EOT-Token"
+ },
+ {
+   "currencyCode": "EQT",
+   "currencyName": "EquiTrader"
+ },
+ {
+   "currencyCode": "ERC",
+   "currencyName": "EuropeCoin"
+ },
+ {
+   "currencyCode": "ETC",
+   "currencyName": "Ethereum-Classic"
+ },
+ {
+   "currencyCode": "ETH",
+   "currencyName": "Ethereum"
+ },
+ {
+   "currencyCode": "ETHD",
+   "currencyName": "Ethereum-Dark"
+ },
+ {
+   "currencyCode": "ETHOS",
+   "currencyName": "Ethos"
+ },
+ {
+   "currencyCode": "ETN",
+   "currencyName": "Electroneum"
+ },
+ {
+   "currencyCode": "ETP",
+   "currencyName": "Metaverse-Entropy"
+ },
+ {
+   "currencyCode": "ETT",
+   "currencyName": "EncryptoTel"
+ },
+ {
+   "currencyCode": "EVE",
+   "currencyName": "Devery"
+ },
+ {
+   "currencyCode": "EVX",
+   "currencyName": "Everex"
+ },
+ {
+   "currencyCode": "EXCL",
+   "currencyName": "ExclusiveCoin"
+ },
+ {
+   "currencyCode": "EXP",
+   "currencyName": "Expanse"
+ },
+ {
+   "currencyCode": "FCT",
+   "currencyName": "Factom"
+ },
+ {
+   "currencyCode": "FIL",
+   "currencyName": "Filecoin"
+ },
+ {
+   "currencyCode": "FLDC",
+   "currencyName": "FoldingCoin"
+ },
+ {
+   "currencyCode": "FLO",
+   "currencyName": "FlorinCoin"
+ },
+ {
+   "currencyCode": "FLT",
+   "currencyName": "FlutterCoin"
+ },
+ {
+   "currencyCode": "FRST",
+   "currencyName": "FirstCoin"
+ },
+ {
+   "currencyCode": "FTC",
+   "currencyName": "Feathercoin"
+ },
+ {
+   "currencyCode": "FTT",
+   "currencyName": "FTX Token"
+ },
+ {
+   "currencyCode": "FUEL",
+   "currencyName": "Etherparty"
+ },
+ {
+   "currencyCode": "FUN",
+   "currencyName": "FunFair"
+ },
+ {
+   "currencyCode": "GAM",
+   "currencyName": "Gambit"
+ },
+ {
+   "currencyCode": "GAME",
+   "currencyName": "GameCredits"
+ },
+ {
+   "currencyCode": "GAS",
+   "currencyName": "Gas"
+ },
+ {
+   "currencyCode": "GBG",
+   "currencyName": "Golos Gold"
+ },
+ {
+   "currencyCode": "GBX",
+   "currencyName": "GoByte"
+ },
+ {
+   "currencyCode": "GBYTE",
+   "currencyName": "Byteball"
+ },
+ {
+   "currencyCode": "GCR",
+   "currencyName": "GCRCoin"
+ },
+ {
+   "currencyCode": "GEO",
+   "currencyName": "GeoCoin"
+ },
+ {
+   "currencyCode": "GLD",
+   "currencyName": "GoldCoin"
+ },
+ {
+   "currencyCode": "GNO",
+   "currencyName": "Gnosis-Token"
+ },
+ {
+   "currencyCode": "GNT",
+   "currencyName": "Golem-Tokens"
+ },
+ {
+   "currencyCode": "GOLOS",
+   "currencyName": "Golos"
+ },
+ {
+   "currencyCode": "GRC",
+   "currencyName": "Gridcoin"
+ },
+ {
+   "currencyCode": "GRT",
+   "currencyName": "Graph"
+ },
+ {
+   "currencyCode": "GRS",
+   "currencyName": "Groestlcoin"
+ },
+ {
+   "currencyCode": "GRWI",
+   "currencyName": "Growers-International"
+ },
+ {
+   "currencyCode": "GTC",
+   "currencyName": "Game"
+ },
+ {
+   "currencyCode": "GTO",
+   "currencyName": "Gifto"
+ },
+ {
+   "currencyCode": "GUP",
+   "currencyName": "Guppy"
+ },
+ {
+   "currencyCode": "GVT",
+   "currencyName": "Genesis-Vision"
+ },
+ {
+   "currencyCode": "GXS",
+   "currencyName": "GXShares"
+ },
+ {
+   "currencyCode": "HBAR",
+   "currencyName": "Hedera"
+ },
+ {
+   "currencyCode": "HBN",
+   "currencyName": "HoboNickels"
+ },
+ {
+   "currencyCode": "HEAT",
+   "currencyName": "HEAT"
+ },
+ {
+   "currencyCode": "HMQ",
+   "currencyName": "Humaniq"
+ },
+ {
+   "currencyCode": "HPB",
+   "currencyName": "High-Performance-Blockchain"
+ },
+ {
+   "currencyCode": "HSR",
+   "currencyName": "Hshare"
+ },
+ {
+   "currencyCode": "HT",
+   "currencyName": "Huobi Token"
+ },
+ {
+   "currencyCode": "HUSH",
+   "currencyName": "Hush"
+ },
+ {
+   "currencyCode": "HVN",
+   "currencyName": "Hive"
+ },
+ {
+   "currencyCode": "HXX",
+   "currencyName": "HexxCoin"
+ },
+ {
+   "currencyCode": "ICN",
+   "currencyName": "ICONOMI"
+ },
+ {
+   "currencyCode": "ICX",
+   "currencyName": "ICON"
+ },
+ {
+   "currencyCode": "IFC",
+   "currencyName": "Infinitecoin"
+ },
+ {
+   "currencyCode": "IFT",
+   "currencyName": "investFeed"
+ },
+ {
+   "currencyCode": "IGNIS",
+   "currencyName": "Ignis"
+ },
+ {
+   "currencyCode": "INCNT",
+   "currencyName": "Incent"
+ },
+ {
+   "currencyCode": "IND",
+   "currencyName": "Indorse-Token"
+ },
+ {
+   "currencyCode": "INF",
+   "currencyName": "InfChain"
+ },
+ {
+   "currencyCode": "INK",
+   "currencyName": "Ink"
+ },
+ {
+   "currencyCode": "INS",
+   "currencyName": "INS-Ecosystem"
+ },
+ {
+   "currencyCode": "INSTAR",
+   "currencyName": "Insights-Network"
+ },
+ {
+   "currencyCode": "INT",
+   "currencyName": "Internet-Node-Token"
+ },
+ {
+   "currencyCode": "INXT",
+   "currencyName": "Internxt"
+ },
+ {
+   "currencyCode": "IOC",
+   "currencyName": "IOCoin"
+ },
+ {
+   "currencyCode": "ION",
+   "currencyName": "ION"
+ },
+ {
+   "currencyCode": "IOP",
+   "currencyName": "Internet-of-People"
+ },
+ {
+   "currencyCode": "IOST",
+   "currencyName": "IOStoken"
+ },
+ {
+   "currencyCode": "IOTA",
+   "currencyName": "IOTA"
+ },
+ {
+   "currencyCode": "IOTX",
+   "currencyName": "IoTeX"
+ },
+ {
+   "currencyCode": "IQT",
+   "currencyName": "Iquant-Chain"
+ },
+ {
+   "currencyCode": "ITC",
+   "currencyName": "IoT-Chain"
+ },
+ {
+   "currencyCode": "IXC",
+   "currencyName": "iXcoin"
+ },
+ {
+   "currencyCode": "IXT",
+   "currencyName": "InsureX"
+ },
+ {
+   "currencyCode": "J8T",
+   "currencyName": "JET8"
+ },
+ {
+   "currencyCode": "JNT",
+   "currencyName": "Jibrel-Network"
+ },
+ {
+   "currencyCode": "KCS",
+   "currencyName": "KuCoin"
+ },
+ {
+   "currencyCode": "KICK",
+   "currencyName": "KickCoin"
+ },
+ {
+   "currencyCode": "KIN",
+   "currencyName": "KIN"
+ },
+ {
+   "currencyCode": "KLAY",
+   "currencyName": "Klaytn"
+ },
+ {
+   "currencyCode": "KMD",
+   "currencyName": "Komodo"
+ },
+ {
+   "currencyCode": "KNC",
+   "currencyName": "Kyber-Network"
+ },
+ {
+   "currencyCode": "KORE",
+   "currencyName": "KoreCoin"
+ },
+ {
+   "currencyCode": "KSM",
+   "currencyName": "Kusama"
+ },
+ {
+   "currencyCode": "LBC",
+   "currencyName": "LBRY-Credits"
+ },
+ {
+   "currencyCode": "LCC",
+   "currencyName": "Litecoin-Cash"
+ },
+ {
+   "currencyCode": "LEND",
+   "currencyName": "EthLend"
+ },
+ {
+   "currencyCode": "LEO",
+   "currencyName": "UNUS SED LEO"
+ },
+ {
+   "currencyCode": "LEV",
+   "currencyName": "Leverj"
+ },
+ {
+   "currencyCode": "LGD",
+   "currencyName": "Legends-Room"
+ },
+ {
+   "currencyCode": "LINDA",
+   "currencyName": "Linda"
+ },
+ {
+   "currencyCode": "LINK",
+   "currencyName": "ChainLink"
+ },
+ {
+   "currencyCode": "LKK",
+   "currencyName": "Lykke"
+ },
+ {
+   "currencyCode": "LMC",
+   "currencyName": "LoMoCoin"
+ },
+ {
+   "currencyCode": "LOCI",
+   "currencyName": "LOCIcoin"
+ },
+ {
+   "currencyCode": "LOOM",
+   "currencyName": "Loom-Token"
+ },
+ {
+   "currencyCode": "LRC",
+   "currencyName": "Loopring"
+ },
+ {
+   "currencyCode": "LSK",
+   "currencyName": "Lisk"
+ },
+ {
+   "currencyCode": "LTC",
+   "currencyName": "Litecoin"
+ },
+ {
+   "currencyCode": "LUN",
+   "currencyName": "Lunyr"
+ },
+ {
+   "currencyCode": "LUNA",
+   "currencyName": "Terra"
+ },
+ {
+   "currencyCode": "MAID",
+   "currencyName": "MaidSafeCoin"
+ },
+ {
+   "currencyCode": "MANA",
+   "currencyName": "Decentraland"
+ },
+ {
+   "currencyCode": "MATIC",
+   "currencyName": "Polygon"
+ },
+ {
+   "currencyCode": "MAX",
+   "currencyName": "Maxcoin"
+ },
+ {
+   "currencyCode": "MBRS",
+   "currencyName": "Embers"
+ },
+ {
+   "currencyCode": "MCAP",
+   "currencyName": "MCAP"
+ },
+ {
+   "currencyCode": "MCO",
+   "currencyName": "Monaco"
+ },
+ {
+   "currencyCode": "MDA",
+   "currencyName": "Moeda-Loyalty-Points"
+ },
+ {
+   "currencyCode": "MEC",
+   "currencyName": "Megacoin"
+ },
+ {
+   "currencyCode": "MED",
+   "currencyName": "MediBlock"
+ },
+ {
+   "currencyCode": "MEME",
+   "currencyName": "Memetic"
+ },
+ {
+   "currencyCode": "MER",
+   "currencyName": "Mercury"
+ },
+ {
+   "currencyCode": "MGC",
+   "currencyName": "MergeCoin"
+ },
+ {
+   "currencyCode": "MGO",
+   "currencyName": "MobileGo"
+ },
+ {
+   "currencyCode": "MINEX",
+   "currencyName": "Minex"
+ },
+ {
+   "currencyCode": "MINT",
+   "currencyName": "Mintcoin"
+ },
+ {
+   "currencyCode": "MIOTA",
+   "currencyName": "IOTA"
+ },
+ {
+   "currencyCode": "MITH",
+   "currencyName": "Mithril"
+ },
+ {
+   "currencyCode": "MKR",
+   "currencyName": "Maker"
+ },
+ {
+   "currencyCode": "MLN",
+   "currencyName": "Melon"
+ },
+ {
+   "currencyCode": "MNE",
+   "currencyName": "Minereum"
+ },
+ {
+   "currencyCode": "MNX",
+   "currencyName": "MinexCoin"
+ },
+ {
+   "currencyCode": "MOD",
+   "currencyName": "Modum"
+ },
+ {
+   "currencyCode": "MONA",
+   "currencyName": "MonaCoin"
+ },
+ {
+   "currencyCode": "MRT",
+   "currencyName": "Miners-Reward-Token"
+ },
+ {
+   "currencyCode": "MSP",
+   "currencyName": "Mothership"
+ },
+ {
+   "currencyCode": "MTH",
+   "currencyName": "Monetha"
+ },
+ {
+   "currencyCode": "MTN",
+   "currencyName": "MedToken"
+ },
+ {
+   "currencyCode": "MUE",
+   "currencyName": "MonetaryUnit"
+ },
+ {
+   "currencyCode": "MUSIC",
+   "currencyName": "Musicoin"
+ },
+ {
+   "currencyCode": "MYB",
+   "currencyName": "MyBit-Token"
+ },
+ {
+   "currencyCode": "MYST",
+   "currencyName": "Mysterium"
+ },
+ {
+   "currencyCode": "MZC",
+   "currencyName": "Mazacoin"
+ },
+ {
+   "currencyCode": "NAMO",
+   "currencyName": "Namocoin"
+ },
+ {
+   "currencyCode": "NANO",
+   "currencyName": "Nano"
+ },
+ {
+   "currencyCode": "NAS",
+   "currencyName": "Nebulas-Token"
+ },
+ {
+   "currencyCode": "NAV",
+   "currencyName": "Nav-Coin"
+ },
+ {
+   "currencyCode": "NBT",
+   "currencyName": "NuBits"
+ },
+ {
+   "currencyCode": "NCASH",
+   "currencyName": "Nucleus-Vision"
+ },
+ {
+   "currencyCode": "NDC",
+   "currencyName": "NeverDie-Coin"
+ },
+ {
+   "currencyCode": "NEBL",
+   "currencyName": "Neblio"
+ },
+ {
+   "currencyCode": "NEO",
+   "currencyName": "NEO"
+ },
+ {
+   "currencyCode": "NEOS",
+   "currencyName": "NeosCoin"
+ },
+ {
+   "currencyCode": "NET",
+   "currencyName": "Nimiq"
+ },
+ {
+   "currencyCode": "NLC2",
+   "currencyName": "NoLimitCoin"
+ },
+ {
+   "currencyCode": "NLG",
+   "currencyName": "Gulden"
+ },
+ {
+   "currencyCode": "NMC",
+   "currencyName": "Namecoin"
+ },
+ {
+   "currencyCode": "NMR",
+   "currencyName": "Numeraire"
+ },
+ {
+   "currencyCode": "NOBL",
+   "currencyName": "NobleCoin"
+ },
+ {
+   "currencyCode": "NOTE",
+   "currencyName": "DNotes"
+ },
+ {
+   "currencyCode": "NPXS",
+   "currencyName": "Pundi-X-Token"
+ },
+ {
+   "currencyCode": "NSR",
+   "currencyName": "NuShares"
+ },
+ {
+   "currencyCode": "NTO",
+   "currencyName": "Fujinto"
+ },
+ {
+   "currencyCode": "NULS",
+   "currencyName": "Nuls"
+ },
+ {
+   "currencyCode": "NVC",
+   "currencyName": "Novacoin"
+ },
+ {
+   "currencyCode": "NXC",
+   "currencyName": "Nexium"
+ },
+ {
+   "currencyCode": "NXS",
+   "currencyName": "Nexus"
+ },
+ {
+   "currencyCode": "NXT",
+   "currencyName": "Nxt"
+ },
+ {
+   "currencyCode": "OAX",
+   "currencyName": "openANX"
+ },
+ {
+   "currencyCode": "OBITS",
+   "currencyName": "Obits"
+ },
+ {
+   "currencyCode": "OCL",
+   "currencyName": "Oceanlab"
+ },
+ {
+   "currencyCode": "OCN",
+   "currencyName": "Odyssey"
+ },
+ {
+   "currencyCode": "ODEM",
+   "currencyName": "ODEM"
+ },
+ {
+   "currencyCode": "ODN",
+   "currencyName": "Obsidian"
+ },
+ {
+   "currencyCode": "OF",
+   "currencyName": "OFCOIN"
+ },
+ {
+   "currencyCode": "OK",
+   "currencyName": "OKCash"
+ },
+ {
+   "currencyCode": "OMG",
+   "currencyName": "OmiseGo"
+ },
+ {
+   "currencyCode": "OMNI",
+   "currencyName": "Omni"
+ },
+ {
+   "currencyCode": "ONION",
+   "currencyName": "DeepOnion"
+ },
+ {
+   "currencyCode": "ONT",
+   "currencyName": "Ontology"
+ },
+ {
+   "currencyCode": "OPT",
+   "currencyName": "Opus"
+ },
+ {
+   "currencyCode": "ORN",
+   "currencyName": "Orion-Protocol"
+ },
+ {
+   "currencyCode": "OST",
+   "currencyName": "Simple-Token"
+ },
+ {
+   "currencyCode": "PART",
+   "currencyName": "Particl"
+ },
+ {
+   "currencyCode": "PASC",
+   "currencyName": "PascalCoin"
+ },
+ {
+   "currencyCode": "PAY",
+   "currencyName": "TenX"
+ },
+ {
+   "currencyCode": "PBL",
+   "currencyName": "Pebbles"
+ },
+ {
+   "currencyCode": "PBT",
+   "currencyName": "Primalbase-Token"
+ },
+ {
+   "currencyCode": "PFR",
+   "currencyName": "Payfair"
+ },
+ {
+   "currencyCode": "PING",
+   "currencyName": "CryptoPing"
+ },
+ {
+   "currencyCode": "PINK",
+   "currencyName": "Pinkcoin"
+ },
+ {
+   "currencyCode": "PIVX",
+   "currencyName": "PIVX"
+ },
+ {
+   "currencyCode": "PIX",
+   "currencyName": "Lampix"
+ },
+ {
+   "currencyCode": "PLBT",
+   "currencyName": "Polybius"
+ },
+ {
+   "currencyCode": "PLR",
+   "currencyName": "Pillar"
+ },
+ {
+   "currencyCode": "PLU",
+   "currencyName": "Pluton"
+ },
+ {
+   "currencyCode": "POA",
+   "currencyName": "POA-Network"
+ },
+ {
+   "currencyCode": "POE",
+   "currencyName": "Poet"
+ },
+ {
+   "currencyCode": "POLY",
+   "currencyName": "Polymath"
+ },
+ {
+   "currencyCode": "POSW",
+   "currencyName": "PoSW-Coin"
+ },
+ {
+   "currencyCode": "POT",
+   "currencyName": "PotCoin"
+ },
+ {
+   "currencyCode": "POWR",
+   "currencyName": "Power-Ledger"
+ },
+ {
+   "currencyCode": "PPC",
+   "currencyName": "Peercoin"
+ },
+ {
+   "currencyCode": "PPT",
+   "currencyName": "Populous"
+ },
+ {
+   "currencyCode": "PPY",
+   "currencyName": "Peerplays"
+ },
+ {
+   "currencyCode": "PRG",
+   "currencyName": "Paragon-Coin"
+ },
+ {
+   "currencyCode": "PRL",
+   "currencyName": "Oyster-Pearl"
+ },
+ {
+   "currencyCode": "PRO",
+   "currencyName": "Propy"
+ },
+ {
+   "currencyCode": "PST",
+   "currencyName": "Primas"
+ },
+ {
+   "currencyCode": "PTC",
+   "currencyName": "Pesetacoin"
+ },
+ {
+   "currencyCode": "PTOY",
+   "currencyName": "Patientory"
+ },
+ {
+   "currencyCode": "PURA",
+   "currencyName": "Pura"
+ },
+ {
+   "currencyCode": "QASH",
+   "currencyName": "QASH"
+ },
+ {
+   "currencyCode": "QAU",
+   "currencyName": "Quantum"
+ },
+ {
+   "currencyCode": "QLC",
+   "currencyName": "Qlink"
+ },
+ {
+   "currencyCode": "QRK",
+   "currencyName": "Quark"
+ },
+ {
+   "currencyCode": "QRL",
+   "currencyName": "Quantum-Resistant-Ledger"
+ },
+ {
+   "currencyCode": "QSP",
+   "currencyName": "Quantstamp"
+ },
+ {
+   "currencyCode": "QTL",
+   "currencyName": "Quatloo"
+ },
+ {
+   "currencyCode": "QTUM",
+   "currencyName": "Qtum"
+ },
+ {
+   "currencyCode": "QUICK",
+   "currencyName": "Quickswap"
+ },
+ {
+   "currencyCode": "QWARK",
+   "currencyName": "Qwark"
+ },
+ {
+   "currencyCode": "R",
+   "currencyName": "Revain"
+ },
+ {
+   "currencyCode": "RADS",
+   "currencyName": "Radium"
+ },
+ {
+   "currencyCode": "RAIN",
+   "currencyName": "Condensate"
+ },
+ {
+   "currencyCode": "RBIES",
+   "currencyName": "Rubies"
+ },
+ {
+   "currencyCode": "RBX",
+   "currencyName": "Ripto-Bux"
+ },
+ {
+   "currencyCode": "RBY",
+   "currencyName": "RubyCoin"
+ },
+ {
+   "currencyCode": "RCN",
+   "currencyName": "Ripio-Credit-Network"
+ },
+ {
+   "currencyCode": "RDD",
+   "currencyName": "ReddCoin"
+ },
+ {
+   "currencyCode": "RDN",
+   "currencyName": "Raiden-Network-Token"
+ },
+ {
+   "currencyCode": "REC",
+   "currencyName": "Regalcoin"
+ },
+ {
+   "currencyCode": "RED",
+   "currencyName": "Redcoin"
+ },
+ {
+   "currencyCode": "REP",
+   "currencyName": "Augur"
+ },
+ {
+   "currencyCode": "REQ",
+   "currencyName": "Request-Network"
+ },
+ {
+   "currencyCode": "RHOC",
+   "currencyName": "RChain"
+ },
+ {
+   "currencyCode": "RIC",
+   "currencyName": "Riecoin"
+ },
+ {
+   "currencyCode": "RISE",
+   "currencyName": "Rise"
+ },
+ {
+   "currencyCode": "RLC",
+   "currencyName": "RLC-Token"
+ },
+ {
+   "currencyCode": "RLT",
+   "currencyName": "RouletteToken"
+ },
+ {
+   "currencyCode": "RPX",
+   "currencyName": "Red-Pulse"
+ },
+ {
+   "currencyCode": "RRT",
+   "currencyName": "Recovery-Right-Tokens"
+ },
+ {
+   "currencyCode": "RUFF",
+   "currencyName": "Ruff"
+ },
+ {
+   "currencyCode": "RUNE",
+   "currencyName": "THORChain"
+ },
+ {
+   "currencyCode": "RUP",
+   "currencyName": "Rupee"
+ },
+ {
+   "currencyCode": "RVT",
+   "currencyName": "Rivetz"
+ },
+ {
+   "currencyCode": "SAFEX",
+   "currencyName": "SafeExchangeCoin"
+ },
+ {
+   "currencyCode": "SALT",
+   "currencyName": "Salt"
+ },
+ {
+   "currencyCode": "SAN",
+   "currencyName": "Santiment-Network-Token"
+ },
+ {
+   "currencyCode": "SBD",
+   "currencyName": "Steem-Dollars"
+ },
+ {
+   "currencyCode": "SBTC",
+   "currencyName": "Super-Bitcoin"
+ },
+ {
+   "currencyCode": "SC",
+   "currencyName": "Siacoin"
+ },
+ {
+   "currencyCode": "SEELE",
+   "currencyName": "Seele"
+ },
+ {
+   "currencyCode": "SEQ",
+   "currencyName": "Sequence"
+ },
+ {
+   "currencyCode": "SHIB",
+   "currencyName": "SHIBA-INU"
+ },
+ {
+   "currencyCode": "SHIFT",
+   "currencyName": "SHIFT"
+ },
+ {
+   "currencyCode": "SIB",
+   "currencyName": "SIBCoin"
+ },
+ {
+   "currencyCode": "SIGMA",
+   "currencyName": "SIGMAcoin"
+ },
+ {
+   "currencyCode": "SIGT",
+   "currencyName": "Signatum"
+ },
+ {
+   "currencyCode": "SJCX",
+   "currencyName": "Storjcoin-X"
+ },
+ {
+   "currencyCode": "SKIN",
+   "currencyName": "SkinCoin"
+ },
+ {
+   "currencyCode": "SKY",
+   "currencyName": "Skycoin"
+ },
+ {
+   "currencyCode": "SLR",
+   "currencyName": "SolarCoin"
+ },
+ {
+   "currencyCode": "SLS",
+   "currencyName": "SaluS"
+ },
+ {
+   "currencyCode": "SMART",
+   "currencyName": "SmartCash"
+ },
+ {
+   "currencyCode": "SMT",
+   "currencyName": "SmartMesh"
+ },
+ {
+   "currencyCode": "SNC",
+   "currencyName": "SunContract"
+ },
+ {
+   "currencyCode": "SNGLS",
+   "currencyName": "SingularDTV"
+ },
+ {
+   "currencyCode": "SNM",
+   "currencyName": "SONM"
+ },
+ {
+   "currencyCode": "SNRG",
+   "currencyName": "Synergy"
+ },
+ {
+   "currencyCode": "SNT",
+   "currencyName": "Status-Network-Token"
+ },
+ {
+   "currencyCode": "SOC",
+   "currencyName": "All-Sports"
+ },
+ {
+   "currencyCode": "SOL",
+   "currencyName": "Solana"
+ },
+ {
+   "currencyCode": "SOUL",
+   "currencyName": "Phantasma"
+ },
+ {
+   "currencyCode": "SPANK",
+   "currencyName": "SpankChain"
+ },
+ {
+   "currencyCode": "SPC",
+   "currencyName": "SpaceChain"
+ },
+ {
+   "currencyCode": "SPHR",
+   "currencyName": "Sphere"
+ },
+ {
+   "currencyCode": "SPR",
+   "currencyName": "SpreadCoin"
+ },
+ {
+   "currencyCode": "SNX",
+   "currencyName": "Synthetix-Network-Token"
+ },
+ {
+   "currencyCode": "SRN",
+   "currencyName": "Sirin-Labs-Token"
+ },
+ {
+   "currencyCode": "START",
+   "currencyName": "Startcoin"
+ },
+ {
+   "currencyCode": "STEEM",
+   "currencyName": "Steem"
+ },
+ {
+   "currencyCode": "STK",
+   "currencyName": "STK-Token"
+ },
+ {
+   "currencyCode": "STORJ",
+   "currencyName": "Storj"
+ },
+ {
+   "currencyCode": "STORM",
+   "currencyName": "Storm"
+ },
+ {
+   "currencyCode": "STQ",
+   "currencyName": "Storiqa"
+ },
+ {
+   "currencyCode": "STRAT",
+   "currencyName": "Stratis"
+ },
+ {
+   "currencyCode": "STX",
+   "currencyName": "Stox"
+ },
+ {
+   "currencyCode": "SUB",
+   "currencyName": "Substratum"
+ },
+ {
+   "currencyCode": "SWFTC",
+   "currencyName": "SwftCoin"
+ },
+ {
+   "currencyCode": "SWIFT",
+   "currencyName": "Bitswift"
+ },
+ {
+   "currencyCode": "SWT",
+   "currencyName": "Swarm-City"
+ },
+ {
+   "currencyCode": "SYNX",
+   "currencyName": "Syndicate"
+ },
+ {
+   "currencyCode": "SYS",
+   "currencyName": "SysCoin"
+ },
+ {
+   "currencyCode": "TAAS",
+   "currencyName": "Taas"
+ },
+ {
+   "currencyCode": "TAU",
+   "currencyName": "Lamden"
+ },
+ {
+   "currencyCode": "TCC",
+   "currencyName": "The-ChampCoin"
+ },
+ {
+   "currencyCode": "TFL",
+   "currencyName": "True-Flip"
+ },
+ {
+   "currencyCode": "THC",
+   "currencyName": "HempCoin"
+ },
+ {
+   "currencyCode": "THETA",
+   "currencyName": "Theta-Token"
+ },
+ {
+   "currencyCode": "TIME",
+   "currencyName": "Time"
+ },
+ {
+   "currencyCode": "TIX",
+   "currencyName": "Blocktix"
+ },
+ {
+   "currencyCode": "TKN",
+   "currencyName": "TokenCard"
+ },
+ {
+   "currencyCode": "TKR",
+   "currencyName": "Trackr"
+ },
+ {
+   "currencyCode": "TKS",
+   "currencyName": "Tokes"
+ },
+ {
+   "currencyCode": "TNB",
+   "currencyName": "Time-New-Bank"
+ },
+ {
+   "currencyCode": "TNT",
+   "currencyName": "Tierion"
+ },
+ {
+   "currencyCode": "TOA",
+   "currencyName": "ToaCoin"
+ },
+ {
+   "currencyCode": "TRAC",
+   "currencyName": "OriginTrail"
+ },
+ {
+   "currencyCode": "TRC",
+   "currencyName": "Terracoin"
+ },
+ {
+   "currencyCode": "TRCT",
+   "currencyName": "Tracto"
+ },
+ {
+   "currencyCode": "TRIBE",
+   "currencyName": "Tribe"
+ },
+ {
+   "currencyCode": "TRIG",
+   "currencyName": "Triggers"
+ },
+ {
+   "currencyCode": "TRST",
+   "currencyName": "Trustcoin"
+ },
+ {
+   "currencyCode": "TRUE",
+   "currencyName": "TrueChain"
+ },
+ {
+   "currencyCode": "TRUST",
+   "currencyName": "TrustPlus"
+ },
+ {
+   "currencyCode": "TRX",
+   "currencyName": "Tronix"
+ },
+ {
+   "currencyCode": "TUSD",
+   "currencyName": "TrueUSD"
+ },
+ {
+   "currencyCode": "TX",
+   "currencyName": "TransferCoin"
+ },
+ {
+   "currencyCode": "UBQ",
+   "currencyName": "Ubiq"
+ },
+ {
+   "currencyCode": "UKG",
+   "currencyName": "UnikoinGold"
+ },
+ {
+   "currencyCode": "ULA",
+   "currencyName": "Ulatech"
+ },
+ {
+   "currencyCode": "UNB",
+   "currencyName": "UnbreakableCoin"
+ },
+ {
+   "currencyCode": "UNI",
+   "currencyName": "Uniswap"
+ },
+ {
+   "currencyCode": "UNITY",
+   "currencyName": "SuperNET"
+ },
+ {
+   "currencyCode": "UNO",
+   "currencyName": "Unobtanium"
+ },
+ {
+   "currencyCode": "UNY",
+   "currencyName": "Unity-Ingot"
+ },
+ {
+   "currencyCode": "UP",
+   "currencyName": "UpToken"
+ },
+ {
+   "currencyCode": "URO",
+   "currencyName": "Uro"
+ },
+ {
+   "currencyCode": "USDT",
+   "currencyName": "Tether"
+ },
+ {
+   "currencyCode": "UST",
+   "currencyName": "TerraUSD"
+ },
+ {
+   "currencyCode": "UTK",
+   "currencyName": "UTrust"
+ },
+ {
+   "currencyCode": "VEE",
+   "currencyName": "BLOCKv"
+ },
+ {
+   "currencyCode": "VEN",
+   "currencyName": "VeChain"
+ },
+ {
+   "currencyCode": "VERI",
+   "currencyName": "Veritaseum"
+ },
+ {
+   "currencyCode": "VET",
+   "currencyName": "VeChain"
+ },
+ {
+   "currencyCode": "VIA",
+   "currencyName": "Viacoin"
+ },
+ {
+   "currencyCode": "VIB",
+   "currencyName": "Viberate"
+ },
+ {
+   "currencyCode": "VIBE",
+   "currencyName": "Vibe"
+ },
+ {
+   "currencyCode": "VIVO",
+   "currencyName": "VIVO"
+ },
+ {
+   "currencyCode": "VOISE",
+   "currencyName": "Voise"
+ },
+ {
+   "currencyCode": "VOX",
+   "currencyName": "Voxels"
+ },
+ {
+   "currencyCode": "VPN",
+   "currencyName": "VPNCoin"
+ },
+ {
+   "currencyCode": "VRC",
+   "currencyName": "Vericoin"
+ },
+ {
+   "currencyCode": "VRM",
+   "currencyName": "Verium"
+ },
+ {
+   "currencyCode": "VRS",
+   "currencyName": "Veros"
+ },
+ {
+   "currencyCode": "VSL",
+   "currencyName": "vSlice"
+ },
+ {
+   "currencyCode": "VTC",
+   "currencyName": "Vertcoin"
+ },
+ {
+   "currencyCode": "VTR",
+   "currencyName": "vTorrent"
+ },
+ {
+   "currencyCode": "WABI",
+   "currencyName": "WaBi"
+ },
+ {
+   "currencyCode": "WAN",
+   "currencyName": "Wanchain"
+ },
+ {
+   "currencyCode": "WAVES",
+   "currencyName": "Waves"
+ },
+ {
+   "currencyCode": "WAX",
+   "currencyName": "Wax-Token"
+ },
+ {
+   "currencyCode": "WBTC",
+   "currencyName": "Wrapped Bitcoin"
+ },
+ {
+   "currencyCode": "WCT",
+   "currencyName": "Waves-Community"
+ },
+ {
+   "currencyCode": "WDC",
+   "currencyName": "WorldCoin"
+ },
+ {
+   "currencyCode": "WGO",
+   "currencyName": "WavesGo"
+ },
+ {
+   "currencyCode": "WGR",
+   "currencyName": "Wagerr"
+ },
+ {
+   "currencyCode": "WINGS",
+   "currencyName": "Wings"
+ },
+ {
+   "currencyCode": "WPR",
+   "currencyName": "WePower"
+ },
+ {
+   "currencyCode": "WTC",
+   "currencyName": "Walton"
+ },
+ {
+   "currencyCode": "WTT",
+   "currencyName": "Giga-Watt-Token"
+ },
+ {
+   "currencyCode": "XAS",
+   "currencyName": "Asch"
+ },
+ {
+   "currencyCode": "XAUR",
+   "currencyName": "Xaurum"
+ },
+ {
+   "currencyCode": "XBC",
+   "currencyName": "Bitcoin-Plus"
+ },
+ {
+   "currencyCode": "XBY",
+   "currencyName": "XtraBYtes"
+ },
+ {
+   "currencyCode": "XCN",
+   "currencyName": "Cryptonite"
+ },
+ {
+   "currencyCode": "XCP",
+   "currencyName": "Counterparty"
+ },
+ {
+   "currencyCode": "XDN",
+   "currencyName": "DigitalNote"
+ },
+ {
+   "currencyCode": "XEL",
+   "currencyName": "Elastic"
+ },
+ {
+   "currencyCode": "XEM",
+   "currencyName": "NEM"
+ },
+ {
+   "currencyCode": "NEM",
+   "currencyName": "NEM"
+ },
+ {
+   "currencyCode": "XHV",
+   "currencyName": "Haven-Protocol"
+ },
+ {
+   "currencyCode": "XID",
+   "currencyName": "Sphere-Identity"
+ },
+ {
+   "currencyCode": "XLM",
+   "currencyName": "Stellar"
+ },
+ {
+   "currencyCode": "XMG",
+   "currencyName": "Magi"
+ },
+ {
+   "currencyCode": "XMR",
+   "currencyName": "Monero"
+ },
+ {
+   "currencyCode": "XMT",
+   "currencyName": "Metal"
+ },
+ {
+   "currencyCode": "XMY",
+   "currencyName": "Myriadcoin"
+ },
+ {
+   "currencyCode": "XPM",
+   "currencyName": "Primecoin"
+ },
+ {
+   "currencyCode": "XRL",
+   "currencyName": "Rialto"
+ },
+ {
+   "currencyCode": "XRP",
+   "currencyName": "Ripple"
+ },
+ {
+   "currencyCode": "XSPEC",
+   "currencyName": "Spectrecoin"
+ },
+ {
+   "currencyCode": "XST",
+   "currencyName": "Stealthcoin"
+ },
+ {
+   "currencyCode": "XTZ",
+   "currencyName": "Tezos"
+ },
+ {
+   "currencyCode": "XUC",
+   "currencyName": "Exchange-Union"
+ },
+ {
+   "currencyCode": "XVC",
+   "currencyName": "Vcash"
+ },
+ {
+   "currencyCode": "XVG",
+   "currencyName": "Verge"
+ },
+ {
+   "currencyCode": "XWC",
+   "currencyName": "WhiteCoin"
+ },
+ {
+   "currencyCode": "XZC",
+   "currencyName": "ZCoin"
+ },
+ {
+   "currencyCode": "XZR",
+   "currencyName": "ZrCoin"
+ },
+ {
+   "currencyCode": "YEE",
+   "currencyName": "Yee"
+ },
+ {
+   "currencyCode": "YOYOW",
+   "currencyName": "YOYOW"
+ },
+ {
+   "currencyCode": "ZCC",
+   "currencyName": "ZcCoin"
+ },
+ {
+   "currencyCode": "ZCL",
+   "currencyName": "Zclassic"
+ },
+ {
+   "currencyCode": "ZCO",
+   "currencyName": "Zebi"
+ },
+ {
+   "currencyCode": "ZEC",
+   "currencyName": "Zcash"
+ },
+ {
+   "currencyCode": "ZEN",
+   "currencyName": "ZenCash"
+ },
+ {
+   "currencyCode": "ZET",
+   "currencyName": "Zetacoin"
+ },
+ {
+   "currencyCode": "ZIL",
+   "currencyName": "Zilliqa"
+ },
+ {
+   "currencyCode": "ZLA",
+   "currencyName": "Zilla"
+ },
+ {
+   "currencyCode": "ZRX",
+   "currencyName": "0x"
+ }
+]

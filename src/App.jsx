@@ -1,19 +1,22 @@
+import { useCallback, useState } from 'react';
 import './App.css';
-import axios from 'axios';
 
+// Component
 import NewFeed from './Components/NewFeed/NewFeed';
 import CurrencyConverter from './Components/CurrencyConverter/CurrencyConverter';
 import ExchangeRate from './Components/ExchangeRate/ExchangeRate';
-
-import digitalCurrencyList from './data/digital_currency_list.json';
-import physicalCurrencyList from './data/physical_currency_list.json';
-import { useCallback, useState } from 'react';
+// Utils
+import AlphaVantage from './Utils/API/AlphaVantage';
+// DATA
+import digitalCurrencyList from './Store/digital_currency_list.json';
+import physicalCurrencyList from './Store/physical_currency_list.json';
+import Graph from './Components/Graph/Graph';
 
 const App = () => {
   const [amountCurrency, setAmountCurrency] = useState(1);
   const [primaryCurrencySelected, setPrimaryCurrencySelected] = useState("EUR");
   const [secondaryCurrencySelected, setSecondaryCurrencySelected] = useState("BTC");
-  const [exchangeRate, setExchangeRate] = useState([]);
+  const [exchangeRate, setExchangeRate] = useState({});
   const [amontCurrencyConverting, setAmountCurrencyConverting] = useState(0);
 
   const handleChange = useCallback(() => {
@@ -23,30 +26,21 @@ const App = () => {
   }, [])
 
   const convertingCurrency = useCallback(() => {
-    const options = {
-      method: 'GET',
-      url: 'https://alpha-vantage.p.rapidapi.com/query',
-      params: {
-        to_currency: secondaryCurrencySelected,
-        function: 'CURRENCY_EXCHANGE_RATE',
-        from_currency: primaryCurrencySelected 
-      },
-      headers: {
-        'x-rapidapi-host': 'alpha-vantage.p.rapidapi.com',
-        'x-rapidapi-key': 'c2aa852be0msh8eac83396bc7c90p104e01jsn02f9db063a6a'
-      }
+    const params = {
+      to_currency: secondaryCurrencySelected,
+      function: "CURRENCY_EXCHANGE_RATE",
+      from_currency: primaryCurrencySelected
     };
-    axios.request(options).then((res) => {
-      console.log(res.data);
-      setExchangeRate(res.data);
-      setAmountCurrencyConverting(res.data['Realtime Currency Exchange Rate']['5. Exchange Rate'] * amountCurrency);
-      
-    }).catch((error) => {
-      console.error(error);
-    })
+    AlphaVantage.get(params, (res) => {
+      setAmountCurrencyConverting(0);
+      if ("Error Message" in res) {
+        return alert(res["Error Message"]);
+      }
+      setExchangeRate(res['Realtime Currency Exchange Rate']);
+      setAmountCurrencyConverting(res['Realtime Currency Exchange Rate']['5. Exchange Rate'] * amountCurrency);
+    });
   })
 
-  console.log(amountCurrency, primaryCurrencySelected, secondaryCurrencySelected);
   return (
     <div className="App container">
       <div className='row'>
@@ -61,11 +55,14 @@ const App = () => {
             convertingCurrency={convertingCurrency}
           />
         </div>
-        <div className='col-12'>
-          <NewFeed />
+        <div className="col-12">
+          <ExchangeRate amontCurrencyConverting={amontCurrencyConverting} exchangeRate={exchangeRate} />
         </div>
         <div className="col-12">
-          <ExchangeRate amontCurrencyConverting={amontCurrencyConverting} />
+          <Graph />
+        </div>
+        <div className='col-12'>
+          <NewFeed />
         </div>
       </div>
     </div>

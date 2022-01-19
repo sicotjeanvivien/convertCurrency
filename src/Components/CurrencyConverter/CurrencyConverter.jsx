@@ -24,9 +24,9 @@ const CurrencyConverter = ({ digitalCurrencyList, physicalCurrencyList, amountCu
                         defaultValue={primaryCurrencySelected}
                         onChange={onChange}
                     >
-                        {/* <optgroup label="Physical Currency">
+                        <optgroup label="Physical Currency">
                             {renderOptionPhycicalCurrent}
-                        </optgroup> */}
+                        </optgroup>
                         <optgroup label="Digital currency">
                             {renderOptionDigitalCurrency}
                         </optgroup>

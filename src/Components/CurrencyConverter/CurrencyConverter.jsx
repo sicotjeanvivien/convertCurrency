@@ -1,12 +1,15 @@
 import "./CurrencyConverter.css";
 
 const CurrencyConverter = ({ digitalCurrencyList, physicalCurrencyList, amountCurrency, primaryCurrencySelected, secondaryCurrencySelected, onChange, convertingCurrency }) => {
+
     const renderOptionPhycicalCurrent = physicalCurrencyList.map((currency, key) => {
         return (<option key={key} value={currency.currencyCode} >{currency.currencyCode} - {currency.currencyName}</option>);
-    })
+    });
+
     const renderOptionDigitalCurrency = digitalCurrencyList.map((currency, key) => {
         return (<option key={key} value={currency.currencyCode} >{currency.currencyCode} - {currency.currencyName}</option>);
-    })
+    });
+
     return (
         <form className="currency-converter">
             <h2>Currency converter</h2>
@@ -24,12 +27,7 @@ const CurrencyConverter = ({ digitalCurrencyList, physicalCurrencyList, amountCu
                         defaultValue={primaryCurrencySelected}
                         onChange={onChange}
                     >
-                        <optgroup label="Physical Currency">
-                            {renderOptionPhycicalCurrent}
-                        </optgroup>
-                        <optgroup label="Digital currency">
-                            {renderOptionDigitalCurrency}
-                        </optgroup>
+                        {renderOptionDigitalCurrency}
                     </select>
                 </div>
                 <div className="col-3">
@@ -38,12 +36,7 @@ const CurrencyConverter = ({ digitalCurrencyList, physicalCurrencyList, amountCu
                         defaultValue={secondaryCurrencySelected}
                         onChange={onChange}
                     >
-                        <optgroup label="Physical Currency">
-                            {renderOptionPhycicalCurrent}
-                        </optgroup>
-                        <optgroup label="Digital currency">
-                            {renderOptionDigitalCurrency}
-                        </optgroup>
+                        {renderOptionPhycicalCurrent}
                     </select>
                 </div>
                 <div className="col-3 d-flex align-items-end">
